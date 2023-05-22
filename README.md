@@ -1,6 +1,9 @@
 Hi 👋, I'm ajannar.
+
 A passionate👀 developer and learner.
+
 💬 Ask me about Python, SQL
+
 🌱 I’m currently learning dbt and cloud concepts.
 
 <!---
