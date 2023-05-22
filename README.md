@@ -1,6 +1,6 @@
-Hi 👋, I'm ajannar.
+👋 Hi, I'm ajannar.
 
-A passionate👀 developer and learner.
+👀 Passionate developer and learner.
 
 💬 Ask me about Python, SQL
 
