@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ajannar
-- 👀 I’m interested in creating webapps, building automation scripts.
-- 🌱 I’m currently learning python.
-
+Hi 👋, I'm ajannar.
+A passionate👀 developer and learner.
+💬 Ask me about Python, SQL
+🌱 I’m currently learning dbt and cloud concepts.
 
 <!---
 ajannar/ajannar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
